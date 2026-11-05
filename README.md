@@ -1,4 +1,3 @@
-
 # Bug Bounty & Responsible Disclosure Program Policy
 
 Chainflip Labs is committed to ensuring the security and integrity of the Chainflip Protocol. To achieve this goal, we invite security researchers and ethical hackers to participate in our Bug Bounty Program. This program encourages responsible disclosure of security vulnerabilities and provides incentives for those who help us identify and address such issues. By participating in our Bug Bounty Program, you agree to the following terms and conditions:
@@ -16,7 +15,7 @@ Disclosures related to the above will be taken seriously, but only if they can b
 ## Please note that this program does NOT cover:
 
 - The Chainflip website, domain, or email configuration, including DNS settings, DKIM, etc.
-- Phishing vectors not related the the Protocol
+- Phishing vectors not related to the Protocol
 - Third-party applications or services
 - Third-party dependencies
 - Physical security or social engineering attacks

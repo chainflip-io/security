@@ -107,7 +107,9 @@ To be eligible for a reward, a bug must be in code that is live on mainnet or pe
 
 The severity of the issue will be assessed according to expected impacts of the issue, using other similar programs as a baseline, though Chainflip will assess severity and corresponding reward size on a case by case basis.
 
-Issues in which an attacker has no direct financial incentive to conduct the attack are automatically heavily downgraded in terms of their severity and impact, and are generally classed as out of scope, though there may be exceptions. Findings that are technically valid but have no realistic impact are acknowledged without a reward.
+Issues in which an attacker has no direct financial incentive to conduct the attack are automatically heavily downgraded in terms of their severity and impact, and are generally classed as out of scope.
+
+Findings assessed as low or informational are not rewarded. This includes code-quality observations, documentation mismatches, and theoretical issues with no demonstrated impact. Such findings are acknowledged, and Chainflip Labs may make an exception for a finding that leads to a meaningful fix.
 
 The first valid report of an issue wins. Issues that are already known internally, already reported by another researcher, or listed in [KNOWN-ISSUES.md](./KNOWN-ISSUES.md) are not eligible for a reward.
 
